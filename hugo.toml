@@ -1,4 +1,4 @@
-baseURL = 'https://www.paulayclaudio.com'
+baseURL = 'https://claudiomll.github.io/pyc-website/'
 languageCode = 'en-us'
 title = 'Paula y Claudio'
 theme = 'ananke'
